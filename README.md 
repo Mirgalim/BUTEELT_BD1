@@ -1,0 +1,5 @@
+java -jar target/flashcard-app-1.0-SNAPSHOT-jar-with-dependencies.jar cards.txt --order random --repetitio
+ns 2 --invertCards
+
+
+ene command aar ajiluul

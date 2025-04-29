@@ -1,0 +1,3 @@
+Paris::What is the capital of France?
+4::What is 2 + 2?
+Blue::What color is the sky?
